@@ -45,12 +45,11 @@
 # function
 
 
-
 # 1- створити функцію яка виводить ліст
 
 # def l_func():
-#     return list()
-#
+#     return list(range(21))
+
 #
 # print(l_func())
 
